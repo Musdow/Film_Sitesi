@@ -1,4 +1,4 @@
-# newportfoli
+# film sitesi
 
 Dizi ve Film izlemek için oluşturulmuş bir platformdur.Karanlık mod özelliğiyle arayüzü istediğiniz gibi kullanabilirsiniz.
 
